@@ -13,4 +13,6 @@ I will update it every single day at different daytime.
 
 You can also add my wechat account to focus the latest information. 
 
+![LLM Daily](./20230604-220504.jpg "LLM Daily")
+
 
